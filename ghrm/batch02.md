@@ -1,0 +1,9 @@
+# Garment HR Management
+
+2026-03-20{.day-date}
+
+အထည်ချုပ်၊ အိတ်ချုပ်၊ ဖိနပ်နှင့် အခြားကုန်ထုတ်လုပ်မှုစက်ရုံများတွင် Compliance Manager သို့မဟုတ် HR Manager အဖြစ် လုပ်ကိုင်လိုသူများအတွက် ရည်ရွယ်ဖွင့်လှစ်သော ၂၀၂၆ ခုနှစ်အတွက် MGMAemp သင်တန်းများ ထဲမှ Garment HR Management (Batch 1) သင်တန်းကို Feb 20th, 27th, Mar 13th and 20th တို့တွင် အောင်မြင်စွာ ကျင်းပ ပြုလုပ်ခဲ့ပြီး ဖြစ်ပါသည်။ တက်ရောက်ခဲ့ကြသော သင်တန်းသား ၁၀ ဦးအား သင်တန်းဆင်းလက်မှတ်များ ထုတ်ပေးခဲ့ပါသည်။
+
+
+![photo](https://raw.githubusercontent.com/MGMAemp/trainings/main/images/viber_image_2025-01-13_10-15-54-008.jpg)
+
