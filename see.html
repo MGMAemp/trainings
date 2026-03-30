@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title></title>
+        <style>
+            header h3 {
+                text-align: center;
+            }
+            main {
+                padding-block: 3rem;
+            }
+            #mdContent {
+                width: min(900px, 95%);
+                margin: auto;
+            }
+            #mdContent table tr td {
+                vertical-align: top;
+            }
+            #mdContent table tr td:not(:last-child) {
+                width: 0;
+                white-space: nowrap;
+                padding-right: 6px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h3>Markdown Preview</h3>
+        </header>
+        <main>
+            <div id="mdContent"></div>
+        </main>
+        <script type="module">
+            import MarkdownIt from 'https://cdn.jsdelivr.net/npm/markdown-it@14/+esm';
+            import MarkdownItAttrs from 'https://cdn.jsdelivr.net/npm/markdown-it-attrs@4/+esm';
+            document.addEventListener('DOMContentLoaded', async () => {
+                const urlParams = new URLSearchParams(window.location.search);
+                const filename = urlParams.get("filename");
+                const path = `/${filename}.md`;
+                const res = await fetch(path);
+                const markdown = await res.text();
+                const md = new MarkdownIt().use(MarkdownItAttrs);
+                const html = md.render(markdown);
+                const mdDiv = document.getElementById('mdContent');
+                mdDiv.innerHTML = html;
+            });
+        </script>
+    </body>
+</html>
+
