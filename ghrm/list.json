@@ -23,15 +23,16 @@
   {
     "filename": "batch01",
     "title": "Garment HR Management Training",
+    "description": "Garment hr management training batch one",
+    "date": "2024-03-31",
+    "coverImage": "https://raw.githubusercontent.com/MGMAemp/trainings/main/images/ghrm/batch012024/20240331_170721 (Small).jpg"
+  },
+  {
+    "filename": "batch01",
+    "title": "Garment HR Management Training",
     "description": "Garment hr management training batch two",
     "date": "2026-03-20",
     "coverImage": "https://raw.githubusercontent.com/MGMAemp/trainings/main/images/batch01-cover.png"
   }
 ]
-   {
-    "filename": "batch012024",
-    "title": "Garment HR Management Training",
-    "description": "Garment hr management training batch one 2025",
-    "date": "2024-03-31",
-    "coverImage": "https://raw.githubusercontent.com/MGMAemp/trainings/main/images/batch01-cover.png"
-  }
+  
