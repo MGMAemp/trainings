@@ -35,10 +35,18 @@
     "coverImage": "https://raw.githubusercontent.com/MGMAemp/trainings/main/images/images/Batch022024/2024ghrmbatch02_02.jpg"
   },
   {
+    "filename": "batch03",
+    "title": "Garment HR Management Training",
+    "description": "Garment hr management training batch three",
+    "date": "2024-09-29",
+    "coverImage": "https://raw.githubusercontent.com/MGMAemp/trainings/main/images/images/images/Batch032024/202409-GHRM-Tranining-01.jpg"
+  },
+
+  {
     "filename": "batch01",
     "title": "Garment HR Management Training",
     "description": "Garment hr management training batch two",
-    "date": "2026-03-20",
+    "date": "2026-09-29",
     "coverImage": "https://raw.githubusercontent.com/MGMAemp/trainings/main/images/batch01-cover.png"
   }
 ]
