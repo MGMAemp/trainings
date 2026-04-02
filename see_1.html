@@ -35,6 +35,16 @@
         <script type="module">
             import MarkdownIt from 'https://cdn.jsdelivr.net/npm/markdown-it@14/+esm';
             import MarkdownItAttrs from 'https://cdn.jsdelivr.net/npm/markdown-it-attrs@4/+esm';
+
+            window.addEventListener('beforeunload', () => {
+                const scrollY = window.scrollY;
+                const viewportHeight = window.innerHeight;
+                const fullHeight = document.documentElement.scrollHeight;
+                const isAtBottom = (scrollY + viewportHeight) >= (fullHeight - 5);
+                sessionStorage.setItem('pg-scroll', scrollY);
+                sessionStorage.setItem('pg-at-bottom', isAtBottom ? 'true' : false);
+            });
+
             document.addEventListener('DOMContentLoaded', async () => {
                 const urlParams = new URLSearchParams(window.location.search);
                 const filename = urlParams.get("filename");
@@ -45,8 +55,16 @@
                 const html = md.render(markdown);
                 const mdDiv = document.getElementById('mdContent');
                 mdDiv.innerHTML = html;
+                requestAnimationFrame(() => {
+                    const savedScroll = sessionStorage.getItem('pg-scroll');
+                    const wasAtBottom = sessionStorage.getItem('pg-at-bottom') === 'true';
+                    if (wasAtBottom) {
+                        window.scrollTo({ top: document.documentElement.scrollHeight, behavior: 'auto' });
+                    } else if (savedScroll !== null) {
+                        window.scrollTo({ top: parseInt(savedScroll, 10), behavior: 'auto' });
+                    }
+                });
             });
         </script>
     </body>
 </html>
-
