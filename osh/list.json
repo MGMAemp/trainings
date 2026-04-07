@@ -61,5 +61,12 @@
     "description": "Occupational Safety and Health Training at Sioen Myanmar Co., Ltd.",
     "date": "2025-06-20",
     "coverImage":"https://raw.githubusercontent.com/MGMAemp/trainings/main/images/OshSioen2025-9/OshSioen2025-1.jpg"
+  },
+  {
+    "filename": "batch20250619",
+    "title": "Occupational Safety and Health",
+    "description": "Occupational Safety and Health Training at Pak Chun In Co., Ltd.",
+    "date": "2025-06-19",
+    "coverImage":"https://raw.githubusercontent.com/MGMAemp/trainings/main/images/OshPakchun-8/Oshpakchun2025-1.jpg"
   }
 ]
