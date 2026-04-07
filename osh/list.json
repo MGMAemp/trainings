@@ -82,5 +82,12 @@
     "description": "Occupational Safety and Health Training at Musung Garment Co., Ltd.",
     "date": "2025-05-16",
     "coverImage":"https://raw.githubusercontent.com/MGMAemp/trainings/main/images/OshMusung2025-06/OshMusung2025-1.jpg"
+  },
+ {
+    "filename": "batch20250428",
+    "title": "Occupational Safety and Health",
+    "description": "Occupational Safety and Health Training at Musung Garment Co., Ltd.",
+    "date": "2025-04-28",
+    "coverImage":"https://raw.githubusercontent.com/MGMAemp/trainings/main/images/"
   }
 ]
