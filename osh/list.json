@@ -117,5 +117,12 @@
     "description": "Occupational Safety and Health Training at Lucky Fortune Co., Ltd.",
     "date": "2025-01-12",
     "coverImage":"https://raw.githubusercontent.com/MGMAemp/trainings/main/images/OshMyport-1/OshMyport2025-1.jpg"
+  },
+ {
+    "filename": "batch012024",
+    "title": "Occupational Safety and Health",
+    "description": "Occupational Safety and Health Training at MGHRDC.",
+    "date": "2024-02-22,23",
+    "coverImage":"https://raw.githubusercontent.com/MGMAemp/trainings/main/"
   }
 ]
