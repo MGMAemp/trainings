@@ -14,4 +14,4 @@
 
 ![Garment HR Management batch one](https://docs.mgmaemp.com/public/trainings/photos/20260320-GHRM-training-07.webp)
 
-![example image](https://raw.githubusercontent.com/MGMAemp/trainings/main/images/viber_image_2025-01-12_10-14-17-486.jpg)
+
