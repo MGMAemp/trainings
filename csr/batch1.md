@@ -2,7 +2,7 @@
 
 အထည်ချုပ်၊ အိတ်ချုပ်၊ ဖိနပ်နှင့် အခြားကုန်ထုတ်လုပ်မှုစက်ရုံများတွင် Compliance Manager သို့မဟုတ် HR Manager အဖြစ် လုပ်ကိုင်လိုသူများ တက်သင့်သောသင်တန်းဖြစ်ပါသည်။
 
-![photo](https://raw.githubusercontent.com/MGMAemp/trainings/main/images/CSRBatch_1/csribatch1mg01.jpg)
+![photo](https://raw.githubusercontent.com/MGMAemp/trainings/main/images/CSRBatch_1/csrbatch1mg01.jpg)
 
 ![photo](https://raw.githubusercontent.com/MGMAemp/trainings/main/images/CSRBatch_1/csrbatch1img02.jpg)
 
