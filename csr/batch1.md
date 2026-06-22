@@ -1,6 +1,7 @@
 # Compliance & Audit Preparation
 
-အထည်ချုပ်၊ အိတ်ချုပ်၊ ဖိနပ်နှင့် အခြားကုန်ထုတ်လုပ်မှုစက်ရုံများတွင် Compliance Manager သို့မဟုတ် HR Manager အဖြစ် လုပ်ကိုင်လိုသူများ တက်သင့်သောသင်တန်းဖြစ်ပါသည်။
+အထည်ချုပ်၊ အိတ်ချုပ်၊ ဖိနပ်နှင့် အခြားကုန်ထုတ်လုပ်မှုစက်ရုံများတွင် Compliance Manager သို့မဟုတ် HR Manager အဖြစ် လုပ်ကိုင်လိုသူများ တက်သင့်သောသင်တန်းဖြစ်ပါသည်။ Compliance & Audit Preparation Training (Batch 1) သင်တန်းကို May 15th, 22th, June 12th and 19th တို့တွင် အောင်မြင်စွာ ကျင်းပ ပြုလုပ်ခဲ့ပြီး ဖြစ်ပါသည်။ တက်ရောက်ခဲ့ကြသော သင်တန်းသား 17 ဦးအား သင်တန်းဆင်းလက်မှတ်များ ထုတ်ပေးခဲ့ပါသည်။
+ 
 
 ![photo](https://raw.githubusercontent.com/MGMAemp/trainings/main/images/CSRBatch_1/csrbatch1mg01.jpg)
 
