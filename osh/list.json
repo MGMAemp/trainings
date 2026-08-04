@@ -1,5 +1,12 @@
 [
   {
+    "filename": "batch012026",
+    "title": "Occupational Safety and Health",
+    "description": "Occupational Safety and Health Training at Trillion Pleasure Industrial Co., Ltd.",
+    "date": "2026-07-23",
+    "coverImage":"https://raw.githubusercontent.com/MGMAemp/trainings/main/images/OshTrillionPleasure2026-1/IMG_20260724_162424 (Small).jpg"
+  },
+  {
     "filename": "batch20251118",
     "title": "Occupational Safety and Health",
     "description": "Occupational Safety and Health Training at Guston Amava Factory.",
@@ -152,12 +159,5 @@
     "description": "Occupational Safety and Health Training at Dishang Fashion Co., Ltd.",
     "date": "2024-10-13",
     "coverImage":"https://raw.githubusercontent.com/MGMAemp/trainings/main/images/Batch052024/2024oshbatch5-1.jpg"
-  },
-  {
-    "filename": "batch012026",
-    "title": "Occupational Safety and Health",
-    "description": "Occupational Safety and Health Training at Dishang Fashion Co., Ltd.",
-    "date": "2026-07-24",
-    "coverImage":"https://raw.githubusercontent.com/MGMAemp/trainings/main/images/viber_image_2025-01-13_10-16-37-739.jpg"
   }
 ]
